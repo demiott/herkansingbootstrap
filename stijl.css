@@ -1,0 +1,30 @@
+.col {
+    padding: 5px;
+    }
+    footer {
+        color: rgba(0, 0, 0, 0.226);
+        height: 200px;
+    }
+    form {
+                font-size: 13px;
+                color: rgba(0, 0, 0, 0.52);
+                }
+                input[type="text"], input[type="email"], textarea, select, button{
+                text-align: center;
+                margin: 10px 0px;
+                width: 400px;
+                }
+                textarea{
+                text-align: center;
+                height: 200px;
+                padding: 10px 5px;
+                }
+                button:active{
+                background-color: white;
+                color: #0000006b;
+                }
+                ::placeholder{
+                font-size: 13px;
+                color: rgba(167, 166, 166, 0.679);
+                }
+    
